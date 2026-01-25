@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Papers with Code",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-code-released-for-synchronous-captioning",
+        
+          title: "Code released for Synchronous Captioning!",
+        
+        description: "Code",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/code-synch-release/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -440,62 +451,57 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-notification-paper-accepted-at-bmvc2024-paper-n-987-guided-attention-for-interpretable-motion-captioning-this-year-bmvc-received-1020-submissions-of-which-264-papers-were-accepted",
+          title: 'Notification Paper Accepted at BMVC2024! Paper N°987: Guided Attention for Interpretable Motion Captioning...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-notification-paper-accepted-at-aaai2026-paper-n-982-transformer-with-controlled-attention-for-synchronous-motion-captioning-we-are-delighted-to-inform-you-that-your-submission-has-been-accepted-for-a-poster-presentation-of-the-23-680-papers-that-entered-phase-1-of-the-main-technical-track-review-process-this-submission-is-one-of-the-4-167-papers-that-is-now-accepted-for-a-17-6-overall-acceptance-rate",
+          title: 'Notification Paper Accepted at AAAI2026! Paper N°982: Transformer with Controlled Attention for Synchronous...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-synch-transformer",
+          title: 'Synch-Transformer',
           description: "Synchronous motion captioning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-m2-interpretable",
+          title: 'M2-Interpretable',
+          description: "Interpretable Motion Captioning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/templates/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/templates/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/templates/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/templates/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/templates/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/templates/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/templates/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -522,7 +528,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Karim Radouane", "_blank");
+          window.open("https://www.linkedin.com/in/karim-radouane-77bb62183", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-6025-5289", "_blank");
         },
       },{
         id: 'social-rss',
