@@ -26,10 +26,10 @@ hal_id: karim-radouane # your HAL id (https://hal.science/)
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: Karim Radouane # your LinkedIn user name #karim-radouane-77bb62183
+linkedin_username: karim-radouane-77bb62183 # your LinkedIn user name #
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0002-6025-5289 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
