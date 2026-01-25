@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rd20karim
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - rd20karim/Synch-Transformer
+  - rd20karim/M2T-Segmentation
+  - rd20karim/M2T-Interpretable
+  - rd20karim/MB-ORES
