@@ -17,14 +17,18 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: Architecure design
     img: /assets/img/transformer_live.png
+    styles: |
+      .page-image {
+        background-color: white !important; /* or transparent */
+      }
     ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/receptieve_field.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/receptieve_field.png" title="example image" class="img-fluid rounded z-depth-1 fix-transparent-bg" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Concept_Transformer_live.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Concept_Transformer_live.png" title="example image" class="img-fluid rounded z-depth-1 fix-transparent-bg" %}
     </div>
 </div>
 <div class="caption">
@@ -32,7 +36,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/transformer_live.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/transformer_live.png" title="example image" class="img-fluid rounded z-depth-1 fix-transparent-bg" %}
     </div>
 </div>
 <div class="caption">
