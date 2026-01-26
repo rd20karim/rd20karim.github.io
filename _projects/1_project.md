@@ -6,22 +6,14 @@ img: assets/img/walks_turns_cartwheel.gif
 importance: 1
 category: work
 related_publications: true
+styles: |
+  .page-image {
+    background-color: white !important; /* or transparent */
+  }
 ---
 
-This is a demo for synchronized captioning.
+Transformer-based architecture design:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: Architecure design
-    img: /assets/img/transformer_live.png
-    styles: |
-      .page-image {
-        background-color: white !important; /* or transparent */
-      }
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,7 +24,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Concept design.
+    Concept design and receptive field.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,6 +32,6 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Phrase-level motion-language alignment.
+    Masked Transformer with Controlled Attention.
 </div>
 

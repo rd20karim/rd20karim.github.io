@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Karim Radouane",
-    "label": "Scientist",
+    "label": "Researcher",
     "image": "",
     "email": "karimradouane39@gmail.com",
     "phone": "",
@@ -24,91 +24,56 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "IRIT Computer Science Research Institute of Toulouse",
+      "position": "Post-doctoral Researcher",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2025-09-01",
+      "endDate": "Now",
+      "summary": "Concept Probing and Learning with Large Language Models (LLMs).",
+      "highlights": ["LLMs"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "IMT Mines Ales",
+      "location": "Ales, France",
+      "url": "https://www.imt-mines-ales.fr/en",
+      "area": "Machine Learning",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2020-11-01",
+      "endDate": "2024-02-26",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Machine learning"]
+    },
+    {
+      "institution": "National Advanced School of Engineering (ENSAM)",
+      "location": "Meknes, Morocco",
+      "url": "https://www.ensam-umi.ac.ma/",
+      "area": "Electromechanical Systems",
+      "studyType": "Engineer",
+      "startDate": "2015-09-01",
+      "endDate": "2020-08-31",
+      "courses": ["Math, Physics"]
+    },
+    {
+      "institution": "University of Bretagne Occidental ",
+      "location": "Brest, France",
+      "url": "https://www.univ-brest.fr/en",
+      "area": "Signal and Telecommunication",
+      "studyType": "Master Research 2",
+      "startDate": "2019-09-01",
+      "endDate": "2020-08-31",
+      "courses": ["Signal Processing"]
     }
+
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "1st at Challenge AffectMove2021",
+      "date": "2021-09-28",
+      "awarder": "Challenge team organisers",
+      "url": "http://www.casapaganini.it/entimement/workshops/2021/Workshop2021_Home.php",
+      "summary": "We win Task 1 of this AffectMove challenge: Protective Behaviour Detection based on Multimodal Body Movement Data. The aim of this task is to advance continuous detection of protective behaviours, i.e., bodily-expressed pain behaviours,  in people with chronic musculoskeletal pain."
     }
   ],
   "publications": [
@@ -124,67 +89,38 @@
       "publisher": "BMVC-2024",
       "releaseDate": "2024-11-25",
       "url": "https://bmvc2024.org/proceedings/987/",
-      "summary": " we introduce a novel architecture design that enhances text generation quality by emphasizing interpretability through spatio-temporal and adaptive attention mechanisms. To encourage human-like reasoning, we propose methods for guiding attention during training, emphasizing relevant skeleton areas over time and distinguishing motion-related words."
+      "summary": "We introduce a novel architecture design that enhances text generation quality by emphasizing interpretability through spatio-temporal and adaptive attention mechanisms. To encourage human-like reasoning, we propose methods for guiding attention during training, emphasizing relevant skeleton areas over time and distinguishing motion-related words."
     },
     {
       "name": "Motion2language, unsupervised learning of synchronized semantic motion segmentation",
       "publisher": "Neural Computing and Applications",
       "releaseDate": "2023-12-13",
       "url": "https://link.springer.com/article/10.1007/s00521-023-09227-z",
-      "summary": "we investigate building a sequence to sequence architecture for motion-to-language translation and synchronization. The aim is to translate motion capture inputs into English natural-language descriptions, such that the descriptions are generated synchronously with the actions performed, enabling semantic segmentation as a byproduct, but without requiring synchronized training data."
+      "summary": "We investigate building a sequence to sequence architecture for motion-to-language translation and synchronization. The aim is to translate motion capture inputs into English natural-language descriptions, such that the descriptions are generated synchronously with the actions performed, enabling semantic segmentation as a byproduct, but without requiring synchronized training data."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "IA",
+      "level": "First",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine learning",
+        "NLP",
+        "Vision Language Models",
+        "Large Language Models"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "IA",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Multimodal Large Language Models",
+        "Explainable AI (xAI)",
+        "Retrieval Augmented Generation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
