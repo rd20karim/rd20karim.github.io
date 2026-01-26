@@ -29,6 +29,7 @@
 
 - title: Experience
   type: time_table
+  contents:
     - title: Post-doctoral Researcher
       institution: IRIT Computer Science Research Institute of Toulouse
       year: 2025-now
