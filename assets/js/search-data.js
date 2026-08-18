@@ -80,6 +80,17 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/blog/2025/code-concept-prob/";
+          
+        },
+      },{id: "post-code-for-concept-probing-will-be-soon-available-rd20karim",
+        
+          title: "Code for concept probing will be soon available rd20karim!",
+        
+        description: "Code",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/blog/2025/code-synch-release/";
           
         },
@@ -456,6 +467,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-notification-paper-accepted-at-aaai2026-paper-n-982-transformer-with-controlled-attention-for-synchronous-motion-captioning-we-are-delighted-to-inform-you-that-your-submission-has-been-accepted-for-a-poster-presentation-of-the-23-680-papers-that-entered-phase-1-of-the-main-technical-track-review-process-this-submission-is-one-of-the-4-167-papers-that-is-now-accepted-for-a-17-6-overall-acceptance-rate",
           title: 'Notification Paper Accepted at AAAI2026! Paper N°982: Transformer with Controlled Attention for Synchronous...',
+          description: "",
+          section: "News",},{id: "news-notification-paper-accepted-at-lrec2026-geobenchmark-probing-large-language-models-for-geo-spatial-knowledge-we-are-pleased-to-inform-you-that-the-following-submission-has-been-accepted-for-presentation-at-lrec-2026-geobenchmark-probing-large-language-models-for-geo-spatial-knowledge",
+          title: 'Notification Paper Accepted at LREC2026! GeoBenchmark: Probing Large Language Models for Geo-Spatial Knowledge...',
+          description: "",
+          section: "News",},{id: "news-notification-paper-accepted-at-cikm2026-1082-geobenchllm-a-comprehensive-benchmark-for-evaluating-llms-on-geo-related-tasks-we-are-pleased-to-inform-you-that-your-submission-to-the-cikm-2026-resource-paper-track-82-geobenchllm-a-comprehensive-benchmark-for-evaluating-llms-on-geo-related-tasks-s-been-accepted-for-presentation-at-the-conference-and-inclusion-in-the-conference-proceedings-congratulations-is-year-we-received-128-resource-paper-submissions-and-accepted-46-36-of-them-as-resource-papers-for-all-papers-we-assigned-at-least-three-pc-members-and-one-spc-member-to-provide-first-level-reviews",
+          title: 'Notification Paper Accepted at CIKM2026! 1082: GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs...',
+          description: "",
+          section: "News",},{id: "news-paper-release-geor2llm-2026-geo-spatial-concept-probing-of-large-language-models-abstraction-compositionality-and-grounding",
+          title: 'Paper Release GeoR2LLM - 2026! Geo-Spatial Concept Probing of Large Language Models: Abstraction,...',
           description: "",
           section: "News",},{id: "projects-synch-transformer",
           title: 'Synch-Transformer',
