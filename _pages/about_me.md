@@ -1,3 +1,4 @@
+Currently a postdoctoral researcher at IRIT, working on Large Language Models within a European project: [Geo-R2LLM](https://www.irit.fr/Geo-R2LLM/)
 
 I was a postdoctoral researcher at [LIPN](https://lipn.fr/en/) (Laboratoire d'Informatique de Paris-Nord), where I work on machine learning for language and vision. My research interests sit at the intersection of **computer vision**, **natural language processing**, and **interpretability / explainable AI (XAI)**, with a long-standing focus on **human motion understanding**.
 
