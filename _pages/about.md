@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 1 # leave blank to include all the blog posts
+  limit: 2 # leave blank to include all the blog posts
 ---
 
 Currently a postdoctoral researcher at IRIT, working on Large Language Models within a European project: [Geo-R2LLM](https://www.irit.fr/Geo-R2LLM/)

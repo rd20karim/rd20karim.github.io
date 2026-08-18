@@ -1,0 +1,9 @@
+Currently a postdoctoral researcher at IRIT, working on Large Language Models within a European project: [Geo-R2LLM](https://www.irit.fr/Geo-R2LLM/)
+
+I was a postdoctoral researcher at [LIPN](https://lipn.fr/en/) (Laboratoire d'Informatique de Paris-Nord), where I work on machine learning for language and vision. My research interests sit at the intersection of **computer vision**, **natural language processing**, and **interpretability / explainable AI (XAI)**, with a long-standing focus on **human motion understanding**.
+
+I completed my PhD in Computer Science in 2024 at [IMT Mines Ales](https://www.imt-mines-ales.fr/) (EuroMov Digital Health in Motion), advised by Andon Tchechmedjiev, Sylvie Ranwez, and Julien Lagarde. My thesis, *"Attention for Human Motion Captioning: Towards an Interpretable Semantic Motion Segmentation and Analysis,"* introduced attention-based architectures that generate language descriptions of human motion while remaining synchronized and interpretable &mdash; work that included winning the AffectMove challenge on protective-behaviour detection along the way. Parts of this research have since appeared at [BMVC](https://bmvc2024.org/) and [AAAI](https://aaai.org/), and in *Neural Computing and Applications*.
+
+More recently, my work has extended into visual grounding for remote sensing imagery (MB-ORES) and probing large language models for geo-spatial knowledge, in collaboration with colleagues at LIPN and IRIT.
+
+You can find my publications below, or browse them on [Google Scholar](https://scholar.google.com/citations?user=Bbs0tOUAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/311/4026.html).

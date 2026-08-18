@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code for concept probing will be soon available rd20karim!
+title: Code released for Synchronous Captioning!
 date: 2025-05-20 14:24:00
 description: Code
 featured: true
